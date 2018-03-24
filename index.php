@@ -1,3 +1,3 @@
 <?php
-    echo "Hello PHP-Openshift";
+    echo "APP 1 ";
 ?>
